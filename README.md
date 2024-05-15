@@ -7,7 +7,6 @@
 ![kittygram_final](https://github.com/Naoidei/kittygram_final/actions/workflows/main.yml/badge.svg)
 
 
-
 ## Деплой
 
 Чтобы задеплоить проект, скопируйте на сервер в целевую директорию файл docker-compose.production.yml и последовательно выполните команды:
